@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "ActorMCP": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "/home/sashan/code/mcp-test/MCPServer/MCPServer.fsproj"
+            ]
+        }
+    }
+}
